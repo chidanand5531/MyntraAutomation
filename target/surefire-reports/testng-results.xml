@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Myntra Automation" duration-ms="112148" started-at="2019-11-01T12:04:46Z" finished-at="2019-11-01T12:06:38Z">
+    <groups>
+    </groups>
+    <test name="myntra Scenarios" duration-ms="112148" started-at="2019-11-01T12:04:46Z" finished-at="2019-11-01T12:06:38Z">
+      <class name="com.myntra.driverscript.DriverScript">
+        <test-method status="PASS" signature="startScript()" name="startScript" is-config="true" duration-ms="60" started-at="2019-11-01T12:04:46Z" finished-at="2019-11-01T12:04:46Z">
+        </test-method>
+        <test-method status="PASS" signature="loadFiles()" name="loadFiles" is-config="true" duration-ms="18" started-at="2019-11-01T12:04:46Z" finished-at="2019-11-01T12:04:46Z">
+        </test-method>
+        <test-method status="PASS" signature="executeTestScripts()" name="executeTestScripts" duration-ms="112119" started-at="2019-11-01T12:04:46Z" finished-at="2019-11-01T12:06:38Z">
+        </test-method>
+        <test-method status="PASS" signature="endScript()" name="endScript" is-config="true" duration-ms="56" started-at="2019-11-01T12:06:40Z" finished-at="2019-11-01T12:06:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

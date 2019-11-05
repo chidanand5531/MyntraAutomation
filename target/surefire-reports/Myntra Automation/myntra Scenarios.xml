@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-A5GCHAB" name="com.myntra.driverscript.DriverScript" tests="1" failures="0" timestamp="1 Nov 2019 06:36:40 GMT" time="112.148" errors="0">
+  <testcase name="executeTestScripts" time="112.119" classname="com.myntra.driverscript.DriverScript"/>
+</testsuite>

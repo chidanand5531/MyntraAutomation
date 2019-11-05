@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Myntra Automation">
+
+<listeners>
+<listener class-name="com.myntra.utility.Reporting" />
+
+</listeners>
+	<test name="myntra Scenarios">
+
+		<classes>
+			<class name="com.myntra.driverscript.DriverScript">
+				<methods>
+					<include name="startScript"></include>
+					<include name="loadFiles"></include>
+					<include name="executeTestScripts"></include>
+					<include name="endScript"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Myntra Automation]">
+  <test name="myntra Scenarios">
+    <classes>
+      <class name="com.myntra.driverscript.DriverScript">
+        <methods>
+          <include name="StatrScript"/>
+          <include name="loadFiles"/>
+          <include name="executeTestScipts"/>
+          <include name="endScript"/>
+        </methods>
+      </class> <!-- com.myntra.driverscript.DriverScript -->
+    </classes>
+  </test> <!-- myntra Scenarios -->
+</suite> <!-- Failed suite [Myntra Automation] -->
